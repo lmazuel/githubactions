@@ -55,9 +55,3 @@ jobs:
     #- name: 'use the published functionapp url in upcoming steps'
     #  run: |
     #    echo "${{ steps.fa.outputs.app-url }}"
-
-# For more information on GitHub Actions:
-#   https://help.github.com/en/categories/automating-your-workflow-with-github-actions
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
